@@ -1,0 +1,1 @@
+Note : This requires SDL configured on the project file to run.
